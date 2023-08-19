@@ -1,0 +1,6 @@
+autopep8 /black - used to format code
+
+linter (used fpr writing code efficiently with prompts and auto completion,etc)
+pylint, pylance
+
+VS CODE: cltr + shift + p   - to control format and etc. stuffs
