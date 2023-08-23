@@ -1,0 +1,3 @@
+all functions defined in a class are methods and are accessed using the dot operator.
+Thus all methods we access using dot operator have their own class.
+eg. list is a class with methods like append, etc. defined in them which we can access using the dot operator.

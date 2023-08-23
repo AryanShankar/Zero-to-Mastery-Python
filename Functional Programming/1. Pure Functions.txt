@@ -1,0 +1,7 @@
+In pure functions data and methods are seen as 2 different things and are kept seperate unline in oops concept where both are together defined in a class.
+
+Pure functions are functions that will always provide the same output for the same input.
+Pure fucntions shud not affect the outside world. 
+eg. it shudnt use outside variables, it shudnt print anything
+
+This is just a concept, actaully having only pure functions is not viable.
